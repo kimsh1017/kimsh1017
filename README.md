@@ -1,7 +1,7 @@
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
-<div style="display:flex; justify-content : space-between;" >
+<div style="display:flex; justify-content : center;" >
 	<div>
 		<p>✨ Platforms & Languages ✨</p>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />

@@ -2,7 +2,7 @@
 	<h3>📚 Tech Stack 📚</h3>
 </div>
 <div style="justify-content: space-between;">
-	<div align=center>
+	<div>
 		<p>✨ Platforms & Languages ✨</p>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -16,7 +16,7 @@
 		<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	</div>
 	<br>
-	<div align=center>
+	<div>
 		<p>🛠 Tools 🛠</p>
 	</div>
 	<div align=center>

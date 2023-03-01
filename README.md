@@ -16,7 +16,7 @@
 		<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	</div>
 	<br>
-	<div float=right>
+	<div align=right>
 		<p>🛠 Tools 🛠</p>
 		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 		<br>

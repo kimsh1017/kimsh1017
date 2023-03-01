@@ -1,3 +1,5 @@
+# Hi! I'm Seonghun Kim!
+<br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>

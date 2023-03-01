@@ -9,4 +9,4 @@ Tech Stack
 </div>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={dochi1017})](https://solved.ac/{dochi1017})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dochi1017)](https://solved.ac/dochi1017)

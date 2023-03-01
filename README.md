@@ -10,5 +10,6 @@
 </div>
 <br>
 <div align=center>	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dochi1017)](https://solved.ac/dochi1017)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dochi1017)](https://solved.ac/dochi1017)
 </div>

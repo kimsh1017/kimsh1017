@@ -1,4 +1,6 @@
+<div align=center>
 # Hi! I'm Seonghun Kim!
+</div>
 <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>

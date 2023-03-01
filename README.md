@@ -1,5 +1,5 @@
 <div align=center>
-# Hi! I'm Seonghun Kim!
+<h1>Hi! I'm Seonghun Kim!</h1>
 </div>
 <br>
 <div align=center>
